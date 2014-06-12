@@ -1,4 +1,4 @@
 test
 ====
 
-testing this
+testing this FROM TERMINAL
